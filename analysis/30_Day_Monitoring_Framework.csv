@@ -1,0 +1,7 @@
+Warning Indicator,What to Monitor,Monitoring Window,Suggested Retention Action
+Transaction Activity,Decline in transaction frequency,Rolling 30 days,Investigate reduced banking activity
+Account Balance,Sudden or sustained reduction in balance,Rolling 30 days,Contact customer to understand withdrawal patterns
+Digital Login Activity,Reduced frequency of banking app logins,Rolling 30 days,Offer digital banking assistance
+Product Engagement,Decline in usage of banking products,Rolling 30 days,Review product suitability
+Customer Complaints,Increase in unresolved complaints,Rolling 30 days,Escalate unresolved complaints
+Customer Satisfaction,Decrease in customer satisfaction scores,Latest available survey,Conduct customer feedback follow-up

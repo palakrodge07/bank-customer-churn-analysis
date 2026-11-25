@@ -1,0 +1,6 @@
+age_group,total_customers,churned_customers,retained_customers,churn_rate,churn_contribution
+Under 25,457,40,417,8.75,1.96
+25-34,3222,250,2972,7.76,12.27
+35-44,3981,703,3278,17.66,34.51
+45-54,1458,702,756,48.15,34.46
+55+,882,342,540,38.78,16.79
