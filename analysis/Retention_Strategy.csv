@@ -1,0 +1,6 @@
+Customer Segment,Identified Risk,Recommended Action,Priority
+Germany | Age 45-54 | Single Product,Very high churn rate and high customer loss,Conduct targeted retention calls and investigate product suitability,Critical
+France | Age 45-54 | Single Product,High churn rate and high customer loss,Review customer satisfaction and service experience,High
+Germany | Age 35-44 | Single Product,Significant customer loss,Investigate engagement and reasons for account closure,High
+France | Age 35-44 | Single Product,Large customer base with notable churn contribution,Review customer needs and service quality,High
+Germany | Age 35-44 | Three Products,Extremely high churn rate,Investigate multi-product experience and service issues,High
